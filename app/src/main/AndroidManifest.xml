@@ -23,7 +23,6 @@
         <activity android:name=".odesc3" />
         <activity android:name=".odesc4" />
         <activity android:name=".odesc5" />
-        <activity android:name=".odesc6" />
         <activity android:name=".odesc1" />
         <activity android:name=".odesc7" />
         <activity android:name=".odesc8"></activity>

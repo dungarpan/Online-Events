@@ -27,10 +27,7 @@ public class OnlineActivity extends AppCompatActivity {
         Intent intent = new Intent(getApplicationContext(),odesc5.class);
         startActivity(intent);
     }
-    public void todesc6(View view){
-        Intent intent = new Intent(getApplicationContext(),odesc6.class);
-        startActivity(intent);
-    }
+
     public void todesc7(View view){
         Intent intent = new Intent(getApplicationContext(),odesc7.class);
         startActivity(intent);

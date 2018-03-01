@@ -9,7 +9,7 @@ import android.view.View;
 public class odesc5 extends AppCompatActivity {
 
     public void phoneopen(View view){
-        String phone = "9831176185";
+        String phone = "+918240129567";
         Intent intent = new Intent(Intent.ACTION_DIAL, Uri.fromParts("tel", phone, null));
         startActivity(intent);
     }
