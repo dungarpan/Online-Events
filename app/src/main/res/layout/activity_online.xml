@@ -53,7 +53,7 @@
                         android:gravity="center_vertical"
                         android:paddingBottom="10dp"
                         android:paddingLeft="0dp"
-                        android:text="TextView"
+                        android:text="FREEPL"
                         android:textColor="@android:color/white"
                         android:textSize="22sp" />
 
@@ -63,7 +63,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Online Premier League"
                         android:textColor="@android:color/white"
                         android:textSize="16sp" />
                 </LinearLayout>
@@ -74,7 +74,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="6dp"
                     android:layout_weight="3"
-                    app:srcCompat="@drawable/me" />
+                    app:srcCompat="@drawable/freepl" />
 
             </LinearLayout>
         </android.support.v7.widget.CardView>
@@ -177,7 +177,7 @@
                         android:gravity="center_vertical"
                         android:paddingBottom="10dp"
                         android:paddingLeft="0dp"
-                        android:text="TextView"
+                        android:text="LINKIN ARC"
                         android:textColor="@android:color/white"
                         android:textSize="22sp" />
 
@@ -187,7 +187,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Find a way out through the maze of logic"
                         android:textColor="@android:color/white"
                         android:textSize="16sp" />
                 </LinearLayout>
@@ -198,7 +198,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="6dp"
                     android:layout_weight="3"
-                    app:srcCompat="@drawable/me" />
+                    app:srcCompat="@drawable/linkinarc" />
 
             </LinearLayout>
         </android.support.v7.widget.CardView>
@@ -239,7 +239,7 @@
                         android:gravity="center_vertical"
                         android:paddingBottom="10dp"
                         android:paddingLeft="0dp"
-                        android:text="TextView"
+                        android:text="INTERFICIO"
                         android:textColor="@android:color/white"
                         android:textSize="22sp" />
 
@@ -249,7 +249,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Bring out the Sherlock in you"
                         android:textColor="@android:color/white"
                         android:textSize="16sp" />
                 </LinearLayout>
@@ -260,7 +260,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="6dp"
                     android:layout_weight="3"
-                    app:srcCompat="@drawable/me" />
+                    app:srcCompat="@drawable/interf" />
 
             </LinearLayout>
         </android.support.v7.widget.CardView>
@@ -272,7 +272,7 @@
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
             android:layout_marginTop="5dp"
-            app:cardBackgroundColor="#125068"
+            app:cardBackgroundColor="#372107"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
             app:cardUseCompatPadding="true">>
@@ -301,7 +301,7 @@
                         android:gravity="center_vertical"
                         android:paddingBottom="10dp"
                         android:paddingLeft="0dp"
-                        android:text="TextView"
+                        android:text="FREEMEX"
                         android:textColor="@android:color/white"
                         android:textSize="22sp" />
 
@@ -311,7 +311,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Online Stock Simulator"
                         android:textColor="@android:color/white"
                         android:textSize="16sp" />
                 </LinearLayout>
@@ -322,7 +322,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="6dp"
                     android:layout_weight="3"
-                    app:srcCompat="@drawable/me" />
+                    app:srcCompat="@drawable/freemex" />
 
             </LinearLayout>
         </android.support.v7.widget.CardView>
@@ -334,7 +334,7 @@
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
             android:layout_marginTop="5dp"
-            app:cardBackgroundColor="#1a9393"
+            app:cardBackgroundColor="#ca6a28"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
             app:cardUseCompatPadding="true">>
@@ -363,7 +363,7 @@
                         android:gravity="center_vertical"
                         android:paddingBottom="10dp"
                         android:paddingLeft="0dp"
-                        android:text="TextView"
+                        android:text="FANTASY FOOTBALL"
                         android:textColor="@android:color/white"
                         android:textSize="22sp" />
 
@@ -373,7 +373,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="For all the football enthusiasts"
                         android:textColor="@android:color/white"
                         android:textSize="16sp" />
                 </LinearLayout>
@@ -384,7 +384,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="6dp"
                     android:layout_weight="3"
-                    app:srcCompat="@drawable/me" />
+                    app:srcCompat="@drawable/ff" />
 
             </LinearLayout>
         </android.support.v7.widget.CardView>
@@ -396,7 +396,7 @@
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
             android:layout_marginTop="5dp"
-            app:cardBackgroundColor="#970e7c"
+            app:cardBackgroundColor="#980e7d"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
             app:cardUseCompatPadding="true">>
@@ -425,7 +425,7 @@
                         android:gravity="center_vertical"
                         android:paddingBottom="10dp"
                         android:paddingLeft="0dp"
-                        android:text="TextView"
+                        android:text="ONLINE TREASURE HUNT"
                         android:textColor="@android:color/white"
                         android:textSize="22sp" />
 
@@ -435,7 +435,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Because Treasure Hunt is cliche"
                         android:textColor="@android:color/white"
                         android:textSize="16sp" />
                 </LinearLayout>
@@ -446,7 +446,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="6dp"
                     android:layout_weight="3"
-                    app:srcCompat="@drawable/me" />
+                    app:srcCompat="@drawable/oth" />
 
             </LinearLayout>
         </android.support.v7.widget.CardView>
@@ -458,7 +458,7 @@
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
             android:layout_marginTop="5dp"
-            app:cardBackgroundColor="#e92240"
+            app:cardBackgroundColor="#372107"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
             app:cardUseCompatPadding="true">>
@@ -487,7 +487,7 @@
                         android:gravity="center_vertical"
                         android:paddingBottom="10dp"
                         android:paddingLeft="0dp"
-                        android:text="TextView"
+                        android:text="DIGITAL FORTRESS"
                         android:textColor="@android:color/white"
                         android:textSize="22sp" />
 
@@ -497,7 +497,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Satiate your wanderlust"
                         android:textColor="@android:color/white"
                         android:textSize="16sp" />
                 </LinearLayout>
@@ -508,7 +508,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="6dp"
                     android:layout_weight="3"
-                    app:srcCompat="@drawable/me" />
+                    app:srcCompat="@drawable/df" />
 
             </LinearLayout>
         </android.support.v7.widget.CardView>

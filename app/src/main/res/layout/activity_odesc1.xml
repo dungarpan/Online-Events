@@ -5,13 +5,13 @@
     android:layout_width="match_parent"
     android:fillViewport="true"
     android:layout_height="match_parent"
-    tools:context="com.example.arpan.onlineevents.desc2">
+    tools:context="com.example.arpan.onlineevents.odesc1">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="0dp"
-        android:background="#1a9393"
+        android:background="#125067"
         android:baselineAligned="false"
         android:orientation="vertical"
         android:weightSum="1">
@@ -21,7 +21,7 @@
             android:layout_width="wrap_content"
             android:layout_height="230dp"
             android:layout_margin="10dp"
-            app:srcCompat="@drawable/me" />
+            app:srcCompat="@drawable/freepl" />
 
         <TextView
             android:id="@+id/textView"
@@ -31,7 +31,7 @@
             android:layout_marginRight="30dp"
             android:paddingBottom="10dp"
             android:paddingTop="15dp"
-            android:text="this is a very long descriptionthis is a very long descriptionthis is a very long descriptionthis is a very long description"
+            android:text="Always dreamed of being your cricket idols like Tendulkar and Dhoni? We have just the right thing for you as we bring to you an online premier league event in which people create virtual teams for real-time cricket matches online. This touch of real life event not only makes people more enthusiastic in developing new things but also initiates open-source contribution in this project."
             android:textColor="@android:color/white"
             android:textSize="18sp" />
 
@@ -55,7 +55,8 @@
             android:foregroundGravity="bottom"
             android:gravity="bottom"
             android:orientation="horizontal"
-            android:paddingBottom="15dp">
+            android:paddingBottom="15dp"
+            android:paddingTop="10dp">
 
             <ImageView
                 android:id="@+id/imageView3"

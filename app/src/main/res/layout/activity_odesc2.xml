@@ -5,13 +5,13 @@
     android:layout_width="match_parent"
     android:fillViewport="true"
     android:layout_height="match_parent"
-    tools:context="com.example.arpan.onlineevents.desc4">
+    tools:context="com.example.arpan.onlineevents.odesc2">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="0dp"
-        android:background="#e92240"
+        android:background="#199492"
         android:baselineAligned="false"
         android:orientation="vertical"
         android:weightSum="1">
@@ -55,7 +55,8 @@
             android:foregroundGravity="bottom"
             android:gravity="bottom"
             android:orientation="horizontal"
-            android:paddingBottom="15dp">
+            android:paddingBottom="15dp"
+            android:paddingTop="10dp">
 
             <ImageView
                 android:id="@+id/imageView3"

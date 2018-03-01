@@ -5,13 +5,13 @@
     android:layout_width="match_parent"
     android:fillViewport="true"
     android:layout_height="match_parent"
-    tools:context="com.example.arpan.onlineevents.desc7">
+    tools:context="com.example.arpan.onlineevents.odesc3">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="0dp"
-        android:background="#970e7c"
+        android:background="#980e7d"
         android:baselineAligned="false"
         android:orientation="vertical"
         android:weightSum="1">
@@ -21,7 +21,7 @@
             android:layout_width="wrap_content"
             android:layout_height="230dp"
             android:layout_margin="10dp"
-            app:srcCompat="@drawable/me" />
+            app:srcCompat="@drawable/linkinarc" />
 
         <TextView
             android:id="@+id/textView"
@@ -31,7 +31,7 @@
             android:layout_marginRight="30dp"
             android:paddingBottom="10dp"
             android:paddingTop="15dp"
-            android:text="this is a very long descriptionthis is a very long descriptionthis is a very long descriptionthis is a very long description"
+            android:text="Cut off arcs of logic and to weave the geometry of reason. Rack your grey cells and find your way through the maze of analysis. So come show off your logical reasoning skills and the art of deduction to your path to victory. The adrenaline rush awaits you!"
             android:textColor="@android:color/white"
             android:textSize="18sp" />
 
@@ -55,7 +55,8 @@
             android:foregroundGravity="bottom"
             android:gravity="bottom"
             android:orientation="horizontal"
-            android:paddingBottom="15dp">
+            android:paddingBottom="15dp"
+            android:paddingTop="10dp">
 
             <ImageView
                 android:id="@+id/imageView3"

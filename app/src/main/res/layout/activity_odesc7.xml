@@ -5,13 +5,13 @@
     android:layout_width="match_parent"
     android:fillViewport="true"
     android:layout_height="match_parent"
-    tools:context="com.example.arpan.onlineevents.desc3">
+    tools:context="com.example.arpan.onlineevents.odesc7">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="0dp"
-        android:background="#970e7c"
+        android:background="#980e7d"
         android:baselineAligned="false"
         android:orientation="vertical"
         android:weightSum="1">
@@ -21,7 +21,7 @@
             android:layout_width="wrap_content"
             android:layout_height="230dp"
             android:layout_margin="10dp"
-            app:srcCompat="@drawable/me" />
+            app:srcCompat="@drawable/oth" />
 
         <TextView
             android:id="@+id/textView"
@@ -31,7 +31,7 @@
             android:layout_marginRight="30dp"
             android:paddingBottom="10dp"
             android:paddingTop="15dp"
-            android:text="this is a very long descriptionthis is a very long descriptionthis is a very long descriptionthis is a very long description"
+            android:text="We have combined the thrill of the chase of a real treasure hunts and blended it with brain wracking riddles. This event focusses on going in-depth to open source technologies through an online quizzing progressive web app. Each round has aim of inculcating among students, various intricacies of open-source technologies."
             android:textColor="@android:color/white"
             android:textSize="18sp" />
 

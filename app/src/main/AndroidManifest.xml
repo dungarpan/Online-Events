@@ -19,13 +19,14 @@
             </intent-filter>
         </activity>
         <activity android:name=".desc1" />
-        <activity android:name=".desc2" />
-        <activity android:name=".desc3" />
-        <activity android:name=".desc4" />
-        <activity android:name=".desc5" />
-        <activity android:name=".desc6" />
-        <activity android:name=".desc7" />
-        <activity android:name=".desc8"></activity>
+        <activity android:name=".odesc2" />
+        <activity android:name=".odesc3" />
+        <activity android:name=".odesc4" />
+        <activity android:name=".odesc5" />
+        <activity android:name=".odesc6" />
+        <activity android:name=".odesc1" />
+        <activity android:name=".odesc7" />
+        <activity android:name=".odesc8"></activity>
     </application>
 
 </manifest>

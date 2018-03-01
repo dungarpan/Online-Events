@@ -5,13 +5,13 @@
     android:layout_width="match_parent"
     android:fillViewport="true"
     android:layout_height="match_parent"
-    tools:context="com.example.arpan.onlineevents.desc8">
+    tools:context="com.example.arpan.onlineevents.odesc8">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="0dp"
-        android:background="#e92240"
+        android:background="#372107"
         android:baselineAligned="false"
         android:orientation="vertical"
         android:weightSum="1">
@@ -21,7 +21,7 @@
             android:layout_width="wrap_content"
             android:layout_height="230dp"
             android:layout_margin="10dp"
-            app:srcCompat="@drawable/me" />
+            app:srcCompat="@drawable/df" />
 
         <TextView
             android:id="@+id/textView"
@@ -31,7 +31,7 @@
             android:layout_marginRight="30dp"
             android:paddingBottom="10dp"
             android:paddingTop="15dp"
-            android:text="this is a very long descriptionthis is a very long descriptionthis is a very long descriptionthis is a very long description"
+            android:text="Satiate your wanderlust with Digital Fortress, an online clue development event which uses Open SourceMap APIs for promoting cryptographic knowledge to the students through map exploration. The aim of this event is to inculcate among students the art of googling – much required skill in open source projects."
             android:textColor="@android:color/white"
             android:textSize="18sp" />
 
@@ -55,7 +55,8 @@
             android:foregroundGravity="bottom"
             android:gravity="bottom"
             android:orientation="horizontal"
-            android:paddingBottom="15dp">
+            android:paddingBottom="15dp"
+            android:paddingTop="10dp">
 
             <ImageView
                 android:id="@+id/imageView3"

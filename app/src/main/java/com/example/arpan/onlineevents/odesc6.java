@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-public class desc8 extends AppCompatActivity {
+public class odesc6 extends AppCompatActivity {
 
     public void phoneopen(View view){
         String phone = "9831176185";
@@ -30,6 +30,6 @@ public class desc8 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_desc8);
+        setContentView(R.layout.activity_odesc6);
     }
 }
