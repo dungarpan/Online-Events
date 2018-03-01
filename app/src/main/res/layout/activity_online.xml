@@ -85,8 +85,8 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
-            app:cardBackgroundColor="#1a9393"
+            android:layout_marginTop="2dp"
+            app:cardBackgroundColor="#ca6a28"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
             app:cardUseCompatPadding="true">>
@@ -115,7 +115,7 @@
                         android:gravity="center_vertical"
                         android:paddingBottom="10dp"
                         android:paddingLeft="0dp"
-                        android:text="AUTOTRADE"
+                        android:text="BIDWARS"
                         android:textColor="@android:color/white"
                         android:textSize="22sp" />
 
@@ -136,7 +136,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="6dp"
                     android:layout_weight="3"
-                    app:srcCompat="@drawable/me" />
+                    app:srcCompat="@drawable/bidwarsdb" />
 
             </LinearLayout>
         </android.support.v7.widget.CardView>
@@ -147,7 +147,7 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#372107"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
@@ -209,7 +209,7 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#970e7c"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
@@ -271,7 +271,7 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#e92240"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
@@ -333,7 +333,7 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#980e7d"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
@@ -395,7 +395,7 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#372107"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
