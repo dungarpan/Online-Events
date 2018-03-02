@@ -55,7 +55,7 @@
                         android:paddingLeft="0dp"
                         android:text="FREEPL"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -63,9 +63,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="Online Premier League"
+                        android:text="Bowl out the hat tricks up your sleeves."
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -117,7 +117,7 @@
                         android:paddingLeft="0dp"
                         android:text="BIDWARS"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -125,9 +125,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Make them an offer, they can't refuse."
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -179,7 +179,7 @@
                         android:paddingLeft="0dp"
                         android:text="FREEMEX"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -187,9 +187,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="Online Stock Simulator"
+                        android:text="Unleash the bear and bull in you."
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -241,7 +241,7 @@
                         android:paddingLeft="0dp"
                         android:text="LINKIN ARC"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -249,9 +249,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="Find a way out through the maze of logic"
+                        android:text="Deduction in Reverse"
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -303,7 +303,7 @@
                         android:paddingLeft="0dp"
                         android:text="INTERFICIO"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -311,9 +311,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="Bring out the Sherlock in you"
+                        android:text="As the night unfolds, so will a web of lies and scandals."
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -365,7 +365,7 @@
                         android:paddingLeft="0dp"
                         android:text="ONLINE TREASURE HUNT"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -373,9 +373,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="Because Treasure Hunt is cliche"
+                        android:text="Google is your best friend!"
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -427,7 +427,7 @@
                         android:paddingLeft="0dp"
                         android:text="DIGITAL FORTRESS"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -435,9 +435,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="Satiate your wanderlust"
+                        android:text="Maps will guide you home!"
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView

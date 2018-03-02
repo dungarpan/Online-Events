@@ -19,7 +19,7 @@
         <ImageView
             android:id="@+id/imageView"
             android:layout_width="wrap_content"
-            android:layout_height="230dp"
+            android:layout_height="210dp"
             android:layout_margin="10dp"
             app:srcCompat="@drawable/df" />
 
@@ -33,7 +33,7 @@
             android:paddingTop="15dp"
             android:text="Satiate your wanderlust with Digital Fortress, an online clue development event which uses Open SourceMap APIs for promoting cryptographic knowledge to the students through map exploration. The aim of this event is to inculcate among students the art of googling – much required skill in open source projects."
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <TextView
             android:id="@+id/textView2"
@@ -46,7 +46,7 @@
             android:paddingTop="25dp"
             android:text="Link to event"
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <LinearLayout
             android:layout_width="match_parent"

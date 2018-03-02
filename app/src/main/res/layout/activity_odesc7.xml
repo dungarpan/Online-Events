@@ -19,7 +19,7 @@
         <ImageView
             android:id="@+id/imageView"
             android:layout_width="wrap_content"
-            android:layout_height="230dp"
+            android:layout_height="210dp"
             android:layout_margin="10dp"
             app:srcCompat="@drawable/oth" />
 
@@ -33,7 +33,7 @@
             android:paddingTop="15dp"
             android:text="We have combined the thrill of the chase of a real treasure hunts and blended it with brain wracking riddles. This event focusses on going in-depth to open source technologies through an online quizzing progressive web app. Each round has aim of inculcating among students, various intricacies of open-source technologies."
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <TextView
             android:id="@+id/textView2"
@@ -46,7 +46,7 @@
             android:paddingTop="25dp"
             android:text="Link to event"
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <LinearLayout
             android:layout_width="match_parent"
